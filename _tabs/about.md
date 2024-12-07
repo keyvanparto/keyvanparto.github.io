@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
 
 ![Feeler](/img/feeler.png){: width="400" height="700" }
