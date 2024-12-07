@@ -8,7 +8,7 @@ order: 3
 
 Hello!
 
-My name is Keyvan, and I am deeply passionate about Machine Learning, LLMs, and everything related to artificial intelligence. I consider myself an avid consumer of knowledge, and it is precisely to embrace this inclination that, after earning a degree in Computer Engineering, I decided to enroll in a Master's program in Artificial Intelligence and Human-Centered Computing, which I am currently pursuing.
+My name is Keyvan and I am deeply passionate about Machine Learning, LLMs, and everything related to artificial intelligence. I consider myself an avid consumer of knowledge, and it is precisely to embrace this inclination that, after earning a degree in Computer Engineering, I decided to enroll in a Master's program in Artificial Intelligence and Human-Centered Computing, which I am currently pursuing.
 
 Before diving into computer science, I nurtured my love for writing, literature, and non-fiction. How? By reading and writing extensively, of course, and by earning a degree in Modern Literature.
 
